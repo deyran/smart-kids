@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap">
-  <Identity Name="f6eec335-7a8b-4f29-96e1-9550f71b15ee" Publisher="CN=User Name" Version="1.0.0.1" />
-  <mp:PhoneIdentity PhoneProductId="54C45778-CCC7-4902-88B6-7AECDC16EF81" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="0368322f-4a7a-4245-9571-14e3230841fc" Publisher="CN=User Name" Version="1.0.0.1" />
+  <mp:PhoneIdentity PhoneProductId="13012C93-AA64-4CDA-B2E5-972C4538E746" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>SmartKidsMobile</DisplayName>
     <PublisherDisplayName>User Name</PublisherDisplayName>

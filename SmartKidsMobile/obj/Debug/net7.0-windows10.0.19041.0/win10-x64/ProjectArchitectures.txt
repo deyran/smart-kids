@@ -1,0 +1,1 @@
+C:\github-projects\smart-kids\SmartKidsMobile\SmartKidsMobile.csproj;x64
